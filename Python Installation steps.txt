@@ -1,0 +1,20 @@
+Basics of opencv
+https://www.javatpoint.com/opencv
+
+Python Installation steps
+1. Download Pycharm
+https://www.jetbrains.com/pycharm/download/#section=windows
+
+2. Install Pycharm
+
+3. Install opencv in pycharm | OpenCV Installation With PyCharm
+Watch: https://youtu.be/BgsusysjZA8
+
+4. Do following lab practice
+Ex-1: To Learn OpenCv
+https://learnopencv.com/read-display-and-write-an-image-using-opencv/
+
+Ex-2:
+https://learnopencv.com/camera-calibration-using-opencv/
+
+
