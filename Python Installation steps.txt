@@ -1,7 +1,7 @@
 Basics of opencv
 https://www.javatpoint.com/opencv
 
-Python Installation steps
+Python Installation step
 1. Download Pycharm
 https://www.jetbrains.com/pycharm/download/#section=windows
 
